@@ -25,9 +25,7 @@
 
 2. Connected ( When New Guest Join To The Room, The Server Will Send An Alert As You See In The Pictures )
 
-<img src='images/chat.PNG' width='800' />
-
-<img src='images/chat2.PNG' width='800' />
+<img src='images//loged-in' width='800' />
 
 <hr>
 
@@ -40,5 +38,5 @@
 
 4. Typing a message ( When Your Friend Is Typing A Message Will Appear To You An Alert To Tell You That The The Other Guest Is Typing. )
 
-<img src='images/typing%20-essage' width='900' />
+<img src='images/typing%20-essage.PNG' width='900' />
 
