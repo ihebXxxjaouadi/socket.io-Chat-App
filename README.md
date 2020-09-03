@@ -11,13 +11,21 @@
 
 <hr>
 
-<h1>---------- How Look Is The App? ----------</h1>
+<h2>---------- How Look Is The App? ----------</h2>
 
 <hr>
 
 1. Login in ( Enter Your Name And Login in)  
 
-<img src='images/app1.PNG' width='400' />
+<img src='images/app1.PNG' width='700' />
 
-<img src='images/app1.PNG' width='400' />
+<img src='images/app2.PNG' width='700' />
+
+<hr>
+
+2. Chat up ( When You Logged In, Now You Can Chat With The People They Logged before And When New Guest Join To The Room, The Server Will Send An Alert As You See In The Pictures )
+
+<img src='images/chat.PNG' width='700' />
+
+<img src='images/chat2.PNG' width='700' />
 
