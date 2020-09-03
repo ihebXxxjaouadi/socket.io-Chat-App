@@ -15,7 +15,7 @@
 
 <hr>
 
-1. Login in ( Enter Your Name And Login in)  
+<h4> 1. Login in ( Enter Your Name And Login in) </h4>
 
 <img src='images/app1.PNG' width='1000' />
 
@@ -23,24 +23,24 @@
 
 <hr>
 
-2. Connected ( When New Guest Join To The Room, The Server Will Send An Alert As You See In The Pictures )
+<h4> 2. Connected ( When New Guest Join To The Room, The Server Will Send An Alert As You See In The Pictures ) </h4>
 
 <img src='images/loged-in.PNG' width='1000' />
 
 <hr>
 
-3. Chat up ( When You Logged In, Now You Can Chat With The People They Logged before.)
+<h4> 3. Chat up ( When You Logged In, Now You Can Chat With The People They Logged before.) </h4>
 
 <img src='images/chat.PNG' width='1000' />
 
 <img src='images/chat2.PNG' width='1000' />
 
 
-4. Typing a message ( When Your Friend Is Typing A Message Will Appear To You An Alert To Tell You That The Other Guest Is Typing. )
+<h4> 4. Typing a message ( When Your Friend Is Typing A Message Will Appear To You An Alert To Tell You That The Other Guest Is Typing. ) </h4>
 
 <img src='images/typing%20-essage.PNG' width='700' />
 
-5. Disconnect ( When Your Friend Disconnected Will Appear To You An Alert To Tell You Who Is Disconnected. )
+<h4> 5. Disconnect ( When Your Friend Disconnected Will Appear To You An Alert To Tell You Who Is Disconnected. ) </h4>
 
-<img src='images/typing%20-essage.PNG' width='700' />
+<img src='images/disconnect.PNG' width='700' />
 
