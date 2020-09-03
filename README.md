@@ -40,5 +40,5 @@
 
 4. Typing a message ( When Your Friend Is Typing A Message Will Appear To You An Alert To Tell You That The The Other Guest Is Typing. )
 
-<img src='images/images/typing%20-essage' width='900' />
+<img src='images/typing%20-essage' width='900' />
 
