@@ -17,15 +17,28 @@
 
 1. Login in ( Enter Your Name And Login in)  
 
-<img src='images/app1.PNG' width='700' />
+<img src='images/app1.PNG' width='800' />
 
-<img src='images/app2.PNG' width='700' />
+<img src='images/app2.PNG' width='800' />
 
 <hr>
 
-2. Chat up ( When You Logged In, Now You Can Chat With The People They Logged before And When New Guest Join To The Room, The Server Will Send An Alert As You See In The Pictures )
+2. Connected ( When New Guest Join To The Room, The Server Will Send An Alert As You See In The Pictures )
 
-<img src='images/chat.PNG' width='700' />
+<img src='images/chat.PNG' width='800' />
 
-<img src='images/chat2.PNG' width='700' />
+<img src='images/chat2.PNG' width='800' />
+
+<hr>
+
+3. Chat up ( When You Logged In, Now You Can Chat With The People They Logged before.)
+
+<img src='images/chat.PNG' width='800' />
+
+<img src='images/chat2.PNG' width='800' />
+
+
+4. Typing a message ( When Your Friend Is Typing A Message Will Appear To You An Alert To Tell You That The The Other Guest Is Typing. )
+
+<img src='images/images/typing%20-essage' width='900' />
 
