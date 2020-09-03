@@ -42,5 +42,5 @@
 
 <h4> 5. Disconnect ( When Your Friend Disconnected Will Appear To You An Alert To Tell You Who Is Disconnected. ) </h4>
 
-<img src='images/disconnect.PNG' width='700' />
+<img src='images/disconnect.PNG' width='1000' />
 
