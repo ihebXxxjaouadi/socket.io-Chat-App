@@ -36,7 +36,11 @@
 <img src='images/chat2.PNG' width='1000' />
 
 
-4. Typing a message ( When Your Friend Is Typing A Message Will Appear To You An Alert To Tell You That The The Other Guest Is Typing. )
+4. Typing a message ( When Your Friend Is Typing A Message Will Appear To You An Alert To Tell You That The Other Guest Is Typing. )
+
+<img src='images/typing%20-essage.PNG' width='700' />
+
+5. Disconnect ( When Your Friend Disconnected Will Appear To You An Alert To Tell You Who Is Disconnected. )
 
 <img src='images/typing%20-essage.PNG' width='700' />
 
