@@ -6,7 +6,8 @@
 <p>
   i used 
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png' width='30' /> nodejs, expressjs 
-  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png' width='35' /> to build the app and a small library called socket.io enables real-time  bidirectional and event-based communication. and of course i used <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='35' /> ❤️️, cause always i'd rather to design my websites without using any framework to make my websites more beatiful 😍 and be more creative 😎.
+  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png' width='35' /> to build the app and a small library called socket.io enables real-time  bidirectional and event-based communication. and of course i used <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='35' /> ❤️️, cause always i'd rather to design my websites without using any framework to make my websites more beatiful 😍 and be more creative 😎.and i used <img src="https://cdn.rawgit.com/pugjs/pug-logo/eec436cee8fd9d1726d7839cbe99d1f694692c0c/SVG/pug-final-logo-_-colour-128.svg" width="30"> Pugjs for the template engine.
+
 </p>
 
 <hr>
